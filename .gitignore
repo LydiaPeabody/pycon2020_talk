@@ -3,3 +3,4 @@
 *.ipynb_checkpoints/*
 templates/
 images/
+mapbox.txt
